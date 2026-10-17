@@ -11,12 +11,14 @@
             "id": "b1e372d49d121965",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/ERDs/academic_structure.svg"
+                "file": "ER_WATW.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "academic_structure"
+              "icon": "lucide-file",
+              "title": "ER_WATW"
             }
           }
         ]
@@ -199,9 +201,10 @@
   },
   "active": "b1e372d49d121965",
   "lastOpenFiles": [
-    "ER_WATW.md",
-    "assets/ERDs/pedagogical_structure.svg",
     "assets/ERDs/academic_structure.svg",
+    "assets/ERDs/pedagogical_structure.svg",
+    "ER_WATW.md",
+    "2026-10-10.md",
     "assets/ERDs/academic_structure.dbml~",
     "README.md",
     "assets/ERDs/4913",
